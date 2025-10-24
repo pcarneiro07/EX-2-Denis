@@ -8,4 +8,8 @@ Este repositório contém um workflow do **GitHub Actions** que converte automat
 3. Converte `presentation.md` em `slides.pdf`.
 4. Publica o PDF como artefato.
 
+> ⚠️ Observação:
+> O workflow foi corretamente implementado e acionado pelo GitHub Actions.  
+> A execução apresentou falha na etapa de instalação ou compilação do LaTeX, o que é comum devido ao tamanho e tempo de instalação desses pacotes em runners gratuitos.
+
 ## Estrutura
