@@ -1,0 +1,6 @@
+from: markdown
+to: beamer
+pdf-engine: xelatex
+slide-level: 2
+variables:
+  theme: "Madrid"
